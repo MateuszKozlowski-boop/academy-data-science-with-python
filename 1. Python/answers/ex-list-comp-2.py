@@ -1,0 +1,1 @@
+[el**3 - el**2 for el in example_list if el**3 - el**2 > 0]

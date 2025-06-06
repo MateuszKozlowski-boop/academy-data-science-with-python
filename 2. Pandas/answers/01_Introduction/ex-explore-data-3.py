@@ -1,0 +1,2 @@
+
+chickweight['weight'].mode()

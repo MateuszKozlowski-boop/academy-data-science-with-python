@@ -1,0 +1,1 @@
+[el for el in months if el.startswith('J')]
